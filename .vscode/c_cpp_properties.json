@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lee/robot_ws/install/msg_srv_action_interface_example/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/lee/robot_ws/src/ros2-seminar-examples/tf2_rclcpp_example/include/**",
+        "/home/lee/robot_ws/src/ros2-seminar-examples/topic_service_action_rclcpp_example/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
